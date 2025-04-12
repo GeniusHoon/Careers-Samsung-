@@ -24,24 +24,25 @@
 
 
 ## Goals of 2024 and achievements.
-* goals : Samsung SW Certification : advanced(level A)
-* 
-* reached : Samsung SW Certification : professional(level B)
-* 
+* goals :
+  * Samsung SW Certification : advanced(level A) 
+* reached :
+  * Samsung SW Certification : professional(level B)
+
  
 ## Goals of 2025 and achievements.
 * goals :
-  Samsung DataScience Certification : Lv3.
-  Samsung SW Architect Certification : Associate Architect
+  * Samsung DataScience Certification : Lv3.
+  * Samsung SW Architect Certification : Associate Architect
   
 * reached :
-  Samsung DataScience Certification : Lv2.
-  Samsung SW Architect Certification : chosen for training program.  
+  * Samsung DataScience Certification : Lv2.
+  * Samsung SW Architect Certification : chosen for training program.  
  
 ## Goals of 2026 and achievements.
 * goals :
-  Best Reviewer
+  * Best Reviewer
   
 * reached :
-  Samsung DataScience Certification : 
-  Samsung SW Architect Certification : 
+  * Samsung DataScience Certification : 
+   Samsung SW Architect Certification : 
