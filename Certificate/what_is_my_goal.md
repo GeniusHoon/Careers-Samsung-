@@ -11,7 +11,7 @@
 * Level 1 : basic knowledge
 * Level 2 : basic DS, statistics, ML. using pandas,numpy to analyis.
 * Level 3 : professional DS, statistics, AI/ML ...
-* Level 4 : Drive project as a certification project.![Uploading 그림1.png…]()
+* Level 4 : Drive project as a certification project.
 
 
 
@@ -29,3 +29,19 @@
 * reached : Samsung SW Certification : professional(level B)
 * 
  
+## Goals of 2025 and achievements.
+* goals :
+  Samsung DataScience Certification : Lv3.
+  Samsung SW Architect Certification : Associate Architect
+  
+* reached :
+  Samsung DataScience Certification : Lv2.
+  Samsung SW Architect Certification : chosen for training program.  
+ 
+## Goals of 2026 and achievements.
+* goals :
+  Best Reviewer
+  
+* reached :
+  Samsung DataScience Certification : 
+  Samsung SW Architect Certification : 
