@@ -3,7 +3,7 @@
 # 유훈's Professional Journey
 
 ## 🎓 Education
-- **Graduated** from Suwon High-tech Meister High School
+- **Graduated** from Suwon High-tech Meister High School(Electronics and Microcontroller)
 - **Major** 'Software Convergence Engineering' from Inha University (2027)
 ## 💼 Internships
 - **2014:** Interned at Samsung Electronics
