@@ -48,5 +48,8 @@
 
 🌟 **Certifications:**  
 - **Samsung Certification** Pro
+  - Skill of **Problem Solving**, **Implementation**
 - **Data Science**  Samsung Professional DataScience Level 2
-- **SW Architect**  Associate Architect
+  - Understanding the basic theories of data science and the use of machine learning models
+- **SW Architect**  Sasmung Associate Architect
+  - OOP, OOAD, and the software development lifecycle
