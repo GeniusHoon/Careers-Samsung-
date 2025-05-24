@@ -28,7 +28,7 @@
 - Served as a **radar maintenance technician** at Seoul Airport:
   - Honorably discharged as **sergeant**.
 
-### 2024 ~ Present
+### 2024
 - Engaged in **TWS (True Wireless Stereo) audio device development**, such as:
   - **Galaxy Buds 3**
   - **Galaxy Buds 3 Pro**
@@ -39,12 +39,19 @@
 - **Programming languages:** **C, C++**.
 - Achieved **Samsung Certification Pro**.
 
+### 2025
+- Achieved *** Samsung DataScience Level 2***
+- Engaged in **TWS (True Wireless Stereo) audio device development**, such as:
+  - **Galaxy Buds 3 FE**
+- Core responsibilities:
+- **Same as 2024** and  **Auto Volume**
+- **Auto Volume** : ML based persnalized volume solution. (SNR based)
 ---
 
 📌 **Skills & Expertise:**  
 - Audio Domain DSP : ANC | Adaptive EQ(Frequency Domain Adaptive Filter) | Hearing Aid
 - Programming (C, C++, Python) | Automated testing programs | AI based Problem classifying  
-- Embedded SW | TWS SW UX development
+- Embedded SW | TWS SW UX development | Android
 
 🌟 **Certifications:**  
 - **Samsung Certification** Pro
@@ -52,4 +59,4 @@
 - **Data Science**  Samsung Professional DataScience Level 2
   - Understanding the basic theories of data science and the use of machine learning models
 - **SW Architect**  Sasmung Associate Architect
-  - OOP, OOAD, and the software development lifecycle
+  - Undestandings of OOP, OOAD, Design Patterns and the software development lifecycle
