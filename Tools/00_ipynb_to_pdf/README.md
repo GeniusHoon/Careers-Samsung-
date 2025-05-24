@@ -15,10 +15,14 @@ pip install pandoc  # may need pandoc also
 ### Code Explanation
 
 import os: Used for file system path operations.
+
 import subprocess: Used to execute external commands (in this case, jupyter nbconvert).
+
 convert_ipynb_to_pdf() function:
 os.getcwd(): Retrieves the path of the directory where the current script is being executed.
+
 os.listdir(current_directory): Gets a list of all files and folders in the current directory.
+
 f.endswith('.ipynb'): Filters only files ending with the .ipynb extension.
 Loop for conversion: For each .ipynb file found, it performs the following:
 os.path.splitext(ipynb_file)[0]: Gets the filename without its extension.
