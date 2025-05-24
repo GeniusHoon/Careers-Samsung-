@@ -45,7 +45,7 @@
   - **Galaxy Buds 3 FE**
 - Core responsibilities:
 - **Same as 2024** and  **Auto Volume**
-- **Auto Volume** : ML based persnalized volume solution. (SNR based)
+- **Auto Volume** : ML based personalized volume solution. (SNR based)
 ---
 
 📌 **Skills & Expertise:**  
