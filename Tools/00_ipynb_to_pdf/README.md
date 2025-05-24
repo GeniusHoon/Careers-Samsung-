@@ -48,4 +48,6 @@ Navigate to the directory containing the .ipynb files you want to convert to PDF
 
 Execute the following command in your terminal or command prompt:
 
-***python convert_notebooks.py***
+'''
+python convert_notebooks.py
+'''
