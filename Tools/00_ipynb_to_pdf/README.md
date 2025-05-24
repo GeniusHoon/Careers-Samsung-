@@ -39,8 +39,9 @@ subprocess.run(): Executes the jupyter nbconvert command.
 --output-dir current_directory: Specifies that the converted PDF file should be saved in the current directory.
 
 Error Handling: Uses a try-except block to handle subprocess.CalledProcessError (when the command execution fails) and FileNotFoundError (when the jupyter command cannot be found).
+
 ---
-###How to Use
+### How to Use
 Save the code above as a Python file, for example, convert_notebooks.py.
 
 Navigate to the directory containing the .ipynb files you want to convert to PDF.
