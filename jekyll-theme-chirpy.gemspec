@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-chirpy"
   spec.version       = "7.2.4"
-  spec.authors       = ["Cotes Chung"]
-  spec.email         = ["cotes.chung@gmail.com"]
+  spec.authors       = ["Genius Hoon"]
+  spec.email         = ["john4542@gmail.com"]
 
   spec.summary       = "A minimal, responsive, and feature-rich Jekyll theme for technical writing."
-  spec.homepage      = "https://github.com/cotes2020/jekyll-theme-chirpy"
+  spec.homepage      = "https://github.com/GeniusHoon/jekyll-theme-chirpy"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f|
@@ -15,15 +15,15 @@ Gem::Specification.new do |spec|
   }
 
   spec.metadata = {
-    "bug_tracker_uri"   => "https://github.com/cotes2020/jekyll-theme-chirpy/issues",
-    "documentation_uri" => "https://github.com/cotes2020/jekyll-theme-chirpy/#readme",
-    "homepage_uri"      => "https://cotes2020.github.io/chirpy-demo",
-    "source_code_uri"   => "https://github.com/cotes2020/jekyll-theme-chirpy",
-    "wiki_uri"          => "https://github.com/cotes2020/jekyll-theme-chirpy/wiki",
+    "bug_tracker_uri"   => "https://github.com/GeniusHoon/jekyll-theme-chirpy/issues",
+    "documentation_uri" => "https://github.com/GeniusHoon/jekyll-theme-chirpy/#readme",
+    "homepage_uri"      => "https://GeniusHoon.github.io/chirpy-demo",
+    "source_code_uri"   => "https://github.com/GeniusHoon/jekyll-theme-chirpy",
+    "wiki_uri"          => "https://github.com/GeniusHoon/jekyll-theme-chirpy/wiki",
     "plugin_type"       => "theme"
   }
 
-  spec.required_ruby_version = "~> 3.4.0"
+  spec.required_ruby_version = "~> 3.4.0dev"
 
   spec.add_runtime_dependency "jekyll", "~> 3.9.3"
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
